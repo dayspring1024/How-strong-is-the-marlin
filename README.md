@@ -1,2 +1,15 @@
-# How-strong-is-the-marlin
-The power of the 700kg marlin in Ernest Hemingway's novel The Old Man and the Sea
+# 소개
+어니스트 헤밍웨이의 소설 <노인과 바다>에 나온 700kg 청새치의 힘을 최대 속력(80km/h)까지 도달하는 시간에 따라 나타낸 그래프입니다.
+
+# 계산 방법
+F = m * a<br>
+= m * (v/t)
+
+# 결과
+최대 속력까지 도달하는 시간을 1초라고 가정했을 때<br>
+  -> 15555.5554N
+
+" 30초라고 가정했을 때<br>
+  -> 518.5185N
+
+70kg의 노인이 낼 수 있는 힘은 최대 120N이므로 끌려가지 않고 정지해 있었다는 표현은 과학적으로 옳지 않음.
